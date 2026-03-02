@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shubhgadhwal
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Science  
-- 💞️ I’m looking to collaborate on projects i can brush up my skills
-- 📫 How to reach me shubhgadhwal@gmail.com
+- 👀 I am an expert in Data Science and ML
+- Data Scientist @ Bumbee labs/ currently working with math modelling for footfall data
+- 📫 How to reach me shubhgadhwal@gmail.com / Linkedin.com/in/shubhamgadhwal
 
 <!---
 shubhgadhwal/shubhgadhwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
